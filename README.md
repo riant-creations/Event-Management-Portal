@@ -38,7 +38,7 @@ A modern, full-featured event management platform built with React, TypeScript, 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/riant-creations/Event-Management-Portal.git>
 ```
 
 2. Install dependencies:
