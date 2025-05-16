@@ -1,6 +1,6 @@
 {
   "name": "event-management-portal",
-  "private": true,
+  "public": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
